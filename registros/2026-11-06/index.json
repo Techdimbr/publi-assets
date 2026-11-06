@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "17:24",
+    "tema": "hacker",
+    "titulo": "OpenSSH: Falha 'SSHOLE' permite acesso root e é explorada ativamente",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "17h24-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122141222169390486",
+      "instagram": "https://www.instagram.com/p/DfadO5ADNBy/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4024657927532757469",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7524567135621316608/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122141222169390486",
+      "instagram": "18137142688659689",
+      "instagram_stories": "18025006652719714",
+      "linkedin": "urn:li:share:7524567135621316608"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
