@@ -56,5 +56,32 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "19:10",
+    "tema": "dica",
+    "titulo": "Downtime: O Custo Oculto da Parada de Sistema na Sua PME",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "19h10-dica.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122141307711390486",
+      "instagram": "https://www.instagram.com/p/DfapdcYGvwn/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7524594022208684032/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122141307711390486",
+      "instagram": "18134585282508870",
+      "linkedin": "urn:li:share:7524594022208684032"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
