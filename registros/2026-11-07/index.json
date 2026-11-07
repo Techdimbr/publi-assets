@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "15:40",
+    "tema": "hacker",
+    "titulo": "SonicWall: Falha em SSL-VPN com bypass de MFA é explorada em ataques",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "15h40-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122141588169390486",
+      "instagram": "https://www.instagram.com/p/Dfc2Nm1E0nQ/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4025330722768383692",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7524903534572748800/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122141588169390486",
+      "instagram": "18060133838563466",
+      "instagram_stories": "18086935061327885",
+      "linkedin": "urn:li:share:7524903534572748800"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
