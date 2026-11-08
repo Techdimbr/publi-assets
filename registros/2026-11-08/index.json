@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "15:47",
+    "tema": "hacker",
+    "titulo": "DEFESA CONTRA FALHAS: SonicWall alerta sobre vulnerabilidade crítica em SSL-VPN",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "15h47-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122142006711390486",
+      "instagram": "https://www.instagram.com/p/DffbwoclOr9/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4026058799257545056",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7525267588898082817/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122142006711390486",
+      "instagram": "18073862963760264",
+      "instagram_stories": "18181050466436869",
+      "linkedin": "urn:li:share:7525267588898082817"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
