@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "18:26",
+    "tema": "noticias",
+    "titulo": "Claude AI: Marca d'água invisível agora em mais modelos de texto para procedência",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "18h26-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122142354285390486",
+      "instagram": "https://www.instagram.com/p/DfiSsh3jW3M/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4026863405495039827",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7525669850883579905/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122142354285390486",
+      "instagram": "18128038954914829",
+      "instagram_stories": "18156239557531490",
+      "linkedin": "urn:li:share:7525669850883579905"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
