@@ -56,5 +56,32 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "21:44",
+    "tema": "dica",
+    "titulo": "LGPD na prática: Prepare sua PME para a auditoria com estes 4 itens essenciais",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "21h44-dica.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122142530955390486",
+      "instagram": "https://www.instagram.com/p/DfipcIxDzhX/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7525719864833949696/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122142530955390486",
+      "instagram": "18117649544042345",
+      "linkedin": "urn:li:share:7525719864833949696"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
