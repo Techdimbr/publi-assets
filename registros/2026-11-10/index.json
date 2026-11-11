@@ -83,5 +83,32 @@
     "comentou": [
       "facebook"
     ]
+  },
+  {
+    "hora": "21:43",
+    "tema": "servico",
+    "titulo": "DIAGNÓSTICO: Identifique gargalos e vulnerabilidades antes que afetem sua PME",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "21h43-servico.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122142960021390486",
+      "instagram": "https://www.instagram.com/p/DflOMfPlBSR/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7526082182537461760/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122142960021390486",
+      "instagram": "18027125651864187",
+      "linkedin": "urn:li:share:7526082182537461760"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
