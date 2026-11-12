@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "15:52",
+    "tema": "noticias",
+    "titulo": "VAZAMENTO DE DADOS: Grok expõe informações confidenciais de 35 mil aplicativos",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "15h52-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122143444731390486",
+      "instagram": "https://www.instagram.com/p/DfpvlWYlWnY/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4028960706233992284",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7526718551148380161/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122143444731390486",
+      "instagram": "18219306931362038",
+      "instagram_stories": "17923241484236057",
+      "linkedin": "urn:li:share:7526718551148380161"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
