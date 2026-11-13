@@ -83,5 +83,32 @@
     "comentou": [
       "facebook"
     ]
+  },
+  {
+    "hora": "22:15",
+    "tema": "servico",
+    "titulo": "HARDENING DE SERVIDORES: Blindagem técnica para proteger os ativos críticos da sua PME",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "22h15-servico.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122143552131390486",
+      "instagram": "https://www.instagram.com/p/DfqbZRXjRQ9/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7526814887432536064/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122143552131390486",
+      "instagram": "18115425758135848",
+      "linkedin": "urn:li:share:7526814887432536064"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
