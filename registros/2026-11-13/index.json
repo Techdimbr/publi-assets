@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "15:30",
+    "tema": "noticias",
+    "titulo": "APAGÃO MICROSOFT: Falha global força empresas a usar fax e telefone",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "15h30-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122143729419390486",
+      "instagram": "https://www.instagram.com/p/DfsRy-Bj1Oz/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4029674185731044946",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7527075239688597504/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122143729419390486",
+      "instagram": "18110888663106402",
+      "instagram_stories": "18230742601336614",
+      "linkedin": "urn:li:share:7527075239688597504"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
