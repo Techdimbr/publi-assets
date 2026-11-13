@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "17:51",
+    "tema": "hacker",
+    "titulo": "Check Point Gateways: Ataques PHP2Shell exploram falhas e instalam wiper em VMware ESXi",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "17h51-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122143749015390486",
+      "instagram": "https://www.instagram.com/p/Dfsh9h6jKJU/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4029745253766200362",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7527110810184171520/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122143749015390486",
+      "instagram": "17920820889467583",
+      "instagram_stories": "17888686023625018",
+      "linkedin": "urn:li:share:7527110810184171520"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
