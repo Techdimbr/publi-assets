@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "14:01",
+    "tema": "noticias",
+    "titulo": "IA na Educação: MEC regulamenta uso, com impacto em plataformas e prazo de 12 meses",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "14h01-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144008347390486",
+      "instagram": "https://www.instagram.com/p/DfusdUQiYrK/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4030354399766840456",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7527415363148386304/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144008347390486",
+      "instagram": "18131392882873611",
+      "instagram_stories": "18197381410395993",
+      "linkedin": "urn:li:share:7527415363148386304"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
