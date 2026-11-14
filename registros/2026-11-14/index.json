@@ -56,5 +56,32 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "18:35",
+    "tema": "dica",
+    "titulo": "IA Segura: Como usar inteligência artificial sem expor dados confidenciais da sua PME",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "18h35-dica.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144045487390486",
+      "instagram": "https://www.instagram.com/p/DfvLvIqk4I_/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7527484125960667136/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144045487390486",
+      "instagram": "18359863549169770",
+      "linkedin": "urn:li:share:7527484125960667136"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
