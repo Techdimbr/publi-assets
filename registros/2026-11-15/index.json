@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "16:42",
+    "tema": "hacker",
+    "titulo": "ATAQUE DE CIBERCRIMINOSOS: Credenciais roubadas expõem dados e instalam backdoors",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "16h42-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144298429390486",
+      "instagram": "https://www.instagram.com/p/DfxjoHPjxYh/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4031159955369224792",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7527818150193680384/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144298429390486",
+      "instagram": "18425218501152030",
+      "instagram_stories": "18109614092295373",
+      "linkedin": "urn:li:share:7527818150193680384"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
