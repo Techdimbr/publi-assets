@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "17:59",
+    "tema": "noticias",
+    "titulo": "Apagão Microsoft 365: Microsoft revela 'tempestade perfeita' de falhas",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "17h59-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144530551390486",
+      "instagram": "https://www.instagram.com/p/Df0RLkskt5L/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4031923310166149066",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7528199787410640897/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144530551390486",
+      "instagram": "18150596446568438",
+      "instagram_stories": "18133451866690082",
+      "linkedin": "urn:li:share:7528199787410640897"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
