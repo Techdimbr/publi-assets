@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "20:20",
+    "tema": "hacker",
+    "titulo": "Windows Server 2016: Fim do suporte em janeiro de 2027 exige ação imediata",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "20h20-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144545635390486",
+      "instagram": "https://www.instagram.com/p/Df0hUjSoOis/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4031994227559784510",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7528235282626924544/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144545635390486",
+      "instagram": "17869397199680027",
+      "instagram_stories": "18079233305752848",
+      "linkedin": "urn:li:share:7528235282626924544"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
