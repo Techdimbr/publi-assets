@@ -56,5 +56,32 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "21:52",
+    "tema": "dica",
+    "titulo": "Rede Vulnerável: 3 sinais que sua PME não pode ignorar hoje",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "21h52-dica.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144556225390486",
+      "instagram": "https://www.instagram.com/p/Df0r3svl858/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7528258499189972992/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144556225390486",
+      "instagram": "17998811286103687",
+      "linkedin": "urn:li:share:7528258499189972992"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
