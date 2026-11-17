@@ -25,3 +25,15 @@ Tudo que foi planejado, gerado, publicado, comentado, apagado, editado ou testad
 | 16:48 | 💬 comentou | Notícias de Tecnologia | instagram | primeiro comentário com fontes e site | agendamento automático |  | [abrir](https://www.instagram.com/p/Df2t6V8DE6m/) |
 | 16:48 | 🖼️ gerado | Notícias de Tecnologia | instagram_stories | 1 imagem(ns) | agendamento automático |  |  |
 | 16:48 | 📱 story | Notícias de Tecnologia | instagram_stories | id 18127525924917737 | agendamento automático |  | [abrir](https://www.instagram.com/stories/techdimbr/4032612575409386515) |
+| 19:12 | ▶️ iniciado | Cibersegurança · IA · Hacker |  | execução iniciada | agendamento automático |  | [abrir](https://github.com/Techdimbr/Publi-midia-Techdim/actions/runs/44187466244) |
+| 19:12 | 🗓️ planejado | Cibersegurança · IA · Hacker |  | pauta: Phishing Avançado: Kits roubam sessões Microsoft 365 e bypassam MFA — curadoria: Claude (Routine) — pauta do dia | agendamento automático |  |  |
+| 19:12 | 🖼️ gerado | Cibersegurança · IA · Hacker | linkedin | 1 imagem(ns) | agendamento automático |  |  |
+| 19:12 | ✅ publicado | Cibersegurança · IA · Hacker | linkedin | id urn:li:share:7528580588400873486 | agendamento automático |  | [abrir](https://www.linkedin.com/feed/update/urn:li:share:7528580588400873486/) |
+| 19:12 | 🖼️ gerado | Cibersegurança · IA · Hacker | facebook | 1 imagem(ns) | agendamento automático |  |  |
+| 19:12 | ✅ publicado | Cibersegurança · IA · Hacker | facebook | id 1167193706481148_122144767911390486 | agendamento automático |  | [abrir](https://www.facebook.com/122132402349390486/posts/122144767911390486) |
+| 19:12 | 💬 comentou | Cibersegurança · IA · Hacker | facebook | primeiro comentário com fontes e site | agendamento automático |  | [abrir](https://www.facebook.com/122132402349390486/posts/122144767911390486) |
+| 19:12 | 🖼️ gerado | Cibersegurança · IA · Hacker | instagram | 1 imagem(ns) | agendamento automático |  |  |
+| 19:12 | ✅ publicado | Cibersegurança · IA · Hacker | instagram | id 18085766735539910 | agendamento automático |  | [abrir](https://www.instagram.com/p/Df2-WMYmCC2/) |
+| 19:12 | 💬 comentou | Cibersegurança · IA · Hacker | instagram | primeiro comentário com fontes e site | agendamento automático |  | [abrir](https://www.instagram.com/p/Df2-WMYmCC2/) |
+| 19:12 | 🖼️ gerado | Cibersegurança · IA · Hacker | instagram_stories | 1 imagem(ns) | agendamento automático |  |  |
+| 19:12 | 📱 story | Cibersegurança · IA · Hacker | instagram_stories | id 18075480236748740 | agendamento automático |  | [abrir](https://www.instagram.com/stories/techdimbr/4032684870472322089) |

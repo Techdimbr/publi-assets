@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "19:12",
+    "tema": "hacker",
+    "titulo": "Phishing Avançado: Kits roubam sessões Microsoft 365 e bypassam MFA",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "19h12-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122144767911390486",
+      "instagram": "https://www.instagram.com/p/Df2-WMYmCC2/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4032684870472322089",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7528580588400873486/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122144767911390486",
+      "instagram": "18085766735539910",
+      "instagram_stories": "18075480236748740",
+      "linkedin": "urn:li:share:7528580588400873486"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
