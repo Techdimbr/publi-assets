@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "18:49",
+    "tema": "hacker",
+    "titulo": "Vulnerabilidade Java4Shell (CVE-2026-114938): RCE Pré-Autenticação em Apps Críticos",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "18h49-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145112197390486",
+      "instagram": "https://www.instagram.com/p/Df5gmajDTfm/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4033398452235260257",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7528937410508931072/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145112197390486",
+      "instagram": "18127266775901217",
+      "instagram_stories": "17990438121131121",
+      "linkedin": "urn:li:share:7528937410508931072"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
