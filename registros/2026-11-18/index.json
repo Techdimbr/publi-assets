@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "16:23",
+    "tema": "noticias",
+    "titulo": "CIBERSEGURANÇA: Ataques autônomos de IA já são realidade, alerta Google",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "16h23-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145092361390486",
+      "instagram": "https://www.instagram.com/p/Df5P3SJmqN8/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4033324848827229091",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7528900605197729792/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145092361390486",
+      "instagram": "18101842451387510",
+      "instagram_stories": "17958564768255347",
+      "linkedin": "urn:li:share:7528900605197729792"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
