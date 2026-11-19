@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "19:06",
+    "tema": "hacker",
+    "titulo": "CRITICAL VMware vCenter Flaw: CVE-2026-123890 bypasses authentication",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "19h06-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145384633390486",
+      "instagram": "https://www.instagram.com/p/Df8HSRmiSRB/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4034131547008237729",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7529303956783529984/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145384633390486",
+      "instagram": "17888149209652747",
+      "instagram_stories": "18400100077205912",
+      "linkedin": "urn:li:share:7529303956783529984"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
