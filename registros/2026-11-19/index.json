@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "16:28",
+    "tema": "noticias",
+    "titulo": "IA e Cibersegurança: Inteligência Artificial ajudou a descobrir falha crítica no Java",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "16h28-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145363717390486",
+      "instagram": "https://www.instagram.com/p/Df71PaeGBS0/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4034052189248382604",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7529264259839479809/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145363717390486",
+      "instagram": "17920717827538903",
+      "instagram_stories": "18134278235479641",
+      "linkedin": "urn:li:share:7529264259839479809"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
