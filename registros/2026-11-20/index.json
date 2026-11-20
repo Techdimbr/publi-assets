@@ -56,5 +56,32 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "20:10",
+    "tema": "dica",
+    "titulo": "BACKUP: Teste sua restauração ou seu backup pode ser inútil",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "20h10-dica.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145651657390486",
+      "instagram": "https://www.instagram.com/p/Df-zaRvCZ5q/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7529682442308235264/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145651657390486",
+      "instagram": "18121579885984947",
+      "linkedin": "urn:li:share:7529682442308235264"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
