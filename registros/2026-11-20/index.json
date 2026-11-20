@@ -1,0 +1,31 @@
+[
+  {
+    "hora": "16:04",
+    "tema": "noticias",
+    "titulo": "VAZAMENTO: Dados de clientes Visa, Mastercard e JPMorgan expostos via terceiros",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "16h04-noticias.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145618543390486",
+      "instagram": "https://www.instagram.com/p/Df-XTTKDD1G/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4034764929223105394",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7529620649980350465/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145618543390486",
+      "instagram": "17874726126646411",
+      "instagram_stories": "18048704747839080",
+      "linkedin": "urn:li:share:7529620649980350465"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
+  }
+]
