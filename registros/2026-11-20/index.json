@@ -27,5 +27,34 @@
       "facebook",
       "instagram"
     ]
+  },
+  {
+    "hora": "18:46",
+    "tema": "hacker",
+    "titulo": "KVM Flaw: Vulnerabilidade permite acesso à memória do host em servidores AMD",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "18h46-hacker.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "publicado",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145640689390486",
+      "instagram": "https://www.instagram.com/p/Df-pzBpkh0R/",
+      "instagram_stories": "https://www.instagram.com/stories/techdimbr/4034846274058613042",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7529661295655124992/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145640689390486",
+      "instagram": "18006060257806906",
+      "instagram_stories": "18202523704382689",
+      "linkedin": "urn:li:share:7529661295655124992"
+    },
+    "comentou": [
+      "facebook",
+      "instagram"
+    ]
   }
 ]
