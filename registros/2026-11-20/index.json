@@ -83,5 +83,32 @@
     "comentou": [
       "facebook"
     ]
+  },
+  {
+    "hora": "22:37",
+    "tema": "servico",
+    "titulo": "Suporte de TI: Sua PME merece um parceiro, não um \"quebra-galho\" reativo.",
+    "curadoria": "Claude (Routine) — pauta do dia",
+    "arquivo": "22h37-servico.md",
+    "redes": {
+      "facebook": "publicado",
+      "instagram": "publicado",
+      "instagram_stories": "-",
+      "linkedin": "publicado"
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/122132402349390486/posts/122145669291390486",
+      "instagram": "https://www.instagram.com/p/Df_EPBXCSX_/",
+      "instagram_stories": "",
+      "linkedin": "https://www.linkedin.com/feed/update/urn:li:share:7529719450670092288/"
+    },
+    "ids": {
+      "facebook": "1167193706481148_122145669291390486",
+      "instagram": "18110161589342681",
+      "linkedin": "urn:li:share:7529719450670092288"
+    },
+    "comentou": [
+      "facebook"
+    ]
   }
 ]
